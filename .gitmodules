@@ -1,0 +1,3 @@
+[submodule "mycryptocurrency_be"]
+	path = mycryptocurrency_be
+	url = ./mycryptocurrency_be
